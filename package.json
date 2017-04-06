@@ -1,0 +1,31 @@
+{
+  "name": "sensor_logger",
+  "version": "1.0.0",
+  "description": "This app collects the sensor values and stores them via an Amazon AWS DynamoDB library in the cloud in a NoSQL db",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "dependencies":{
+    "express":"*",
+    "body-parser":"*",
+    "sqlite3":"*"
+  },
+  "keywords": [
+    "Node",
+    "JS",
+    "AWS",
+    "Amazon",
+    "DynamoDB",
+    "NoSQL",
+    "Python",
+    "SQLite3",
+    "RaspberryPi",
+    "3",
+    "Raspbian",
+    "Wheezy"
+  ],
+  "author": "Virgil Andreies",
+  "license": "ISC"
+}
