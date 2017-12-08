@@ -4,7 +4,7 @@ REST service APiI fexposing sensor values collected by Raspberry Pi. EpressJS, B
 Steps:
 1. Download the repository
 2. Install Node
-3. Install SLITE3
+3. Install SQLITE3
 4. Setup a SQLite database
 5. Navigate to repository folder
 6. Run "npm install" to install modules
